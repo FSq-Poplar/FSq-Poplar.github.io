@@ -11,7 +11,7 @@ export default class Home extends React.Component {
       <div className='Home'>
         <Header
           title='Poplar Wang'
-          text='is a third year student at the University of Toronto, pursuing a double major in Computer Science and Economics.'
+          text='is a senior at the University of Toronto, pursuing a double major in Computer Science and Economics.'
           prompt
         />
         <p className='prompt'>./view_projects</p>
