@@ -15,7 +15,7 @@ export default class Home extends React.Component {
           prompt
         />
         <p className='prompt'>./view_projects</p>
-        <Tile link='/ppobo' source='./Resources/ppobo.png' alt='dementia care app' />
+        <Tile link='/hackathons' source='./Resources/mlh.png' alt='hackathons' />
         <Tile link='/fpgann' source='./Resources/fpga_nn.png' alt='fpga neural network' />
         <Tile link='/builds' source='./Resources/pc_builds.png' alt='my pc builds' />
         <Tile link='/miniprojects' source='./Resources/mini_stuff.png' alt='smaller projects' />

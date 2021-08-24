@@ -5,7 +5,7 @@ import './index.css'
 import './App.css'
 
 import Home from './Views/Home'
-import PpoBO from './Views/Ppobo'
+import Hackathons from './Views/Hackathons'
 import FPGANN from './Views/FPGANN'
 import Builds from './Views/Builds'
 import MiniProjects from './Views/Miniprojects'
@@ -31,7 +31,7 @@ export default class App extends React.Component {
                 >
                   <Switch location={location}>
                     <Route exact path='/' component={Home} />
-                    <Route path='/ppobo' component={PpoBO} />
+                    <Route path='/hackathons' component={Hackathons} />
                     <Route path='/fpgann' component={FPGANN} />
                     <Route path='/builds' component={Builds} />
                     <Route path='/miniprojects' component={MiniProjects} />
