@@ -7,7 +7,7 @@ import './App.css'
 import Home from './Views/Home'
 import Hackathons from './Views/Hackathons'
 import FPGANN from './Views/FPGANN'
-import Builds from './Views/Builds'
+import WaveFormJS from './Views/WaveFormJS'
 import MiniProjects from './Views/Miniprojects'
 import { play, exit } from './Animations/Play'
 import Banner from './Components/Banner'
@@ -33,7 +33,7 @@ export default class App extends React.Component {
                     <Route exact path='/' component={Home} />
                     <Route path='/hackathons' component={Hackathons} />
                     <Route path='/fpgann' component={FPGANN} />
-                    <Route path='/builds' component={Builds} />
+                    <Route path='/waveformjs' component={WaveFormJS} />
                     <Route path='/miniprojects' component={MiniProjects} />
                   </Switch>
                 </Transition>
