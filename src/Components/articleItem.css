@@ -1,0 +1,44 @@
+.stuff-article-item {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+}
+
+.stuff-article-item > * {
+  display: block;
+  color: #0039a6;
+}
+
+.stuff-article-item svg {
+  float: left;
+  margin-right: 1em;
+}
+
+.stuff-article-item a {
+  float: left;
+  text-decoration: none;
+  max-width: calc(100% - 10em);
+  color: #505050;
+}
+
+.stuff-article-item time {
+  float: right;
+  padding-top: 2px;
+  margin-right: 1.25em;
+  font-size: 15px;
+}
+
+.stuff-article-item a:hover {
+  text-decoration: underline;
+}
+
+/* Dark theme */
+.dark-mode .stuff-article-item > * {
+  color: #1874cd;
+}
+
+.dark-mode .stuff-article-item a {
+  color: whitesmoke;
+}

@@ -1,0 +1,20 @@
+[
+    {
+       "articleType":"code",
+       "articleShortTitle":"placeholder",
+       "articleTitle":"This is a long article title to simulate what happens if it goes over two lines",
+       "articleDate":"2022-09-18"
+    },
+    {
+       "articleType":"thoughts",
+       "articleShortTitle":"placeholder2",
+       "articleTitle":"Shorter test title",
+       "articleDate":"2022-08-30"
+    },
+    {
+       "articleType":"music",
+       "articleShortTitle":"placeholder3",
+       "articleTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+       "articleDate":"2021-03-04"
+    }
+]

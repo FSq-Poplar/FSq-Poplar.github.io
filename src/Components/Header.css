@@ -1,10 +1,61 @@
-h1 {
-  font-weight: 400;
-  font-size: 1.3em;
+/* Navbar */
+#navbar {
+  font-size: 16px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
-em {
-  color: #000;
-  font-style: normal;
-  font-weight: 800;
+#navbar > li {
+  float: left;
+  margin-right: 1.25em;
+  color: black;
+}
+
+#navbar > li:last-child {
+  float: right;
+}
+
+#navbar > li:last-child svg {
+  color: #303030;
+}
+
+#navbar > li > .navbar-name {
+  color: #0039a6;
+  pointer-events: none;
+}
+
+#navbar .navbar-active {
+  font-weight: 550;
+  pointer-events: none;
+}
+
+#navbar > li > a {
+  color: black;
+  float: left;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+#navbar > li > a:hover {
+  text-decoration: underline;
+}
+
+/* Dark theme */
+.darkmode #navbar > li {
+  color: gainsboro;
+}
+
+.dark-mode #navbar > li > .navbar-name {
+  color: #1874cd;
+}
+
+.dark-mode #navbar > li > a {
+  color: gainsboro;
+}
+
+.dark-mode #navbar > li:last-child svg {
+  color: gainsboro;
 }

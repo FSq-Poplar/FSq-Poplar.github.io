@@ -1,0 +1,10 @@
+/* General */
+.prompt::before {
+  color: #0039a6;
+  content: "poplwang@FSq:~$ ";
+}
+
+/* Dark theme */
+.dark-mode .prompt::before {
+  color: #1874cd;
+}

@@ -1,25 +1,30 @@
 # FSq-Poplar.github.io
 
-Code and deployment of my online portfolio. A live version can be found at [fsq-poplar.com](https://fsq-poplar.com/).
+## Live
 
-The website is mostly stock React, with social media icons from [Font Awesome](https://www.npmjs.com/package/react-fontawesome) and animations constructed using [GreenSock](https://www.npmjs.com/package/gsap).
+[fsq-poplar.com](https://fsq-poplar.com/)
 
 ## Workflows
 
 - Linted with [Super-Linter](https://github.com/github/super-linter) on push
-- Deployed and hosted at GitHub pages on push to master
+- If no linting issues, deployed to GitHub pages on push to master
 
 ## Usage
 
-Development:
+Dev:
 
 ```bash
 npm install
 npm start
 ```
 
-Deployment:
+Lint:
 
 ```bash
-npm build
+./styles
 ```
+
+## Acknowledgements
+
+While coded from scratch, the design is largely influenced by
+Simon Eskildsen's website ([sirupsen.com](https://sirupsen.com/)).

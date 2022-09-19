@@ -1,0 +1,26 @@
+.article-toc {
+  color: #888;
+  font-size: 16px;
+  position: fixed;
+  top: 15%;
+  margin-left: -17em;
+  width: 15em;
+}
+
+.article-toc li {
+  margin: 5px 0;
+}
+
+.article-toc a:hover {
+  color: #888;
+  text-decoration: underline;
+}
+
+.article-toc .toc-active > a {
+  color: black;
+}
+
+/* Dark theme */
+.dark-mode .toc-active > a {
+  color: whitesmoke;
+}

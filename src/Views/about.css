@@ -1,0 +1,12 @@
+#about-pfp-container {
+  text-align: center;
+  height: 225px;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+#about-pfp {
+  height: 225px;
+  max-width: 100%;
+  border-radius: 50%;
+}

@@ -1,3 +1,4 @@
-standard --fix
+npx standard --fix
 npx stylelint "**/*.css" --fix
 ./node_modules/.bin/htmlhint public/index.html
+markdownlint **/*.md --fix --ignore node_modules
