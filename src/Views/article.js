@@ -5,6 +5,7 @@ import '../common.css'
 import ReactMarkdown from 'react-markdown'
 import rehypeSlug from 'rehype-slug'
 import ArticleToC from '../Components/articleToC'
+import { HashLink } from 'react-router-hash-link'
 
 export default function Article (props) {
   const LOADING_MSG = 'loading'
@@ -31,6 +32,7 @@ export default function Article (props) {
       <ReactMarkdown rehypePlugins={[rehypeSlug]} disallowedElements={['h1']}>
         {markdown}
       </ReactMarkdown>
+      <HashLink id='back-link' to='/stuff'>← Back</HashLink>
     </article>
   )
 }
