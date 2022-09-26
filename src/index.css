@@ -5,6 +5,10 @@ body {
   background-color: #e8e8e8;
 }
 
+body p {
+  line-height: 1.45;
+}
+
 .content-container {
   display: flex;
   flex-direction: column;
