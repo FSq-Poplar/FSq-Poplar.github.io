@@ -1,20 +1,80 @@
 [
-    {
-       "articleType":"code",
-       "articleShortTitle":"placeholder",
-       "articleTitle":"This is a long article title to simulate what happens if it goes over two lines",
-       "articleDate":"2022-09-18"
-    },
-    {
-       "articleType":"thoughts",
-       "articleShortTitle":"placeholder2",
-       "articleTitle":"Shorter test title",
-       "articleDate":"2022-08-30"
-    },
-    {
-       "articleType":"music",
-       "articleShortTitle":"placeholder3",
-       "articleTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-       "articleDate":"2021-03-04"
-    }
+   {
+      "articleType":"thoughts",
+      "articleShortTitle":"uiux_is_hard",
+      "articleTitle":"I suck at designing things",
+      "articleDate":"2022-09-25"
+   },
+   {
+      "articleType":"code",
+      "articleShortTitle":"skl_reg_opt",
+      "articleTitle":"SKLearn Optimization and Prototyping Script",
+      "articleDate":"2022-04-18"
+   },
+   {
+      "articleType":"thoughts",
+      "articleShortTitle":"hackathons",
+      "articleTitle":"Some Thoughts on Hackathons",
+      "articleDate":"2021-08-30"
+   },
+   {
+      "articleType":"hackathon",
+      "articleShortTitle":"opbop",
+      "articleTitle":"OpBop - Hack the 6ix 2021",
+      "articleDate":"2021-08-23"
+   },
+   {
+      "articleType":"hackathon",
+      "articleShortTitle":"obopp",
+      "articleTitle":"oBopp - HackED 2021",
+      "articleDate":"2021-01-18"
+   },
+   {
+      "articleType":"hackathon",
+      "articleShortTitle":"pobop",
+      "articleTitle":"poBop - nwHacks 2021",
+      "articleDate":"2021-01-11"
+   },
+   {
+      "articleType":"code",
+      "articleShortTitle":"waveformjs",
+      "articleTitle":"WaveFormJS, a CSS based Audio Visualization Library",
+      "articleDate":"2021-04-26"
+   },
+   {
+      "articleType":"hardware",
+      "articleShortTitle":"nocturnal",
+      "articleTitle":"College Daily Driver Build - Nocturnal",
+      "articleDate":"2020-07-20"
+   },
+   {
+      "articleType":"code",
+      "articleShortTitle":"mc_rcon",
+      "articleTitle":"Shared Minecraft Server Administration with RCON",
+      "articleDate":"2020-04-20"
+   },
+   {
+      "articleType":"hardware",
+      "articleShortTitle":"frankenstein",
+      "articleTitle":"College Sandbox Build - Frankenstein",
+      "articleDate":"2020-02-03"
+   },
+   {
+      "articleType":"hackathon",
+      "articleShortTitle":"ppobo",
+      "articleTitle":"PpoBO - HackED 2020",
+      "articleDate":"2020-01-20"
+   },
+   {
+      "articleType":"code",
+      "articleShortTitle":"fpga_nn",
+      "articleTitle":"Verilog FPGA Neural Network for Handwritten Number Recognition",
+      "articleDate":"2019-10-10"
+   },
+   {
+      "articleType":"code",
+      "articleShortTitle":"fs_visualizer",
+      "articleTitle":"Simple Python File System Visualizer",
+      "articleDate":"2019-08-08"
+   }
 ]

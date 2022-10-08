@@ -30,7 +30,7 @@ as constraints for schedule generation. You can read more about scheduling
 and other functionality that was added
 [here](https://aws.amazon.com/blogs/contact-center/optimization/).
 
-![image](../Resources/Recruit/scheduler.png)
+![image](../Resources/recruit/scheduler.png)
 
 Prior to that, I was a co-op student at the Government of Canada, where
 I worked on a couple different projects. On the development side of things,
@@ -78,7 +78,7 @@ In terms of orchestral music, I played in the Edmonton Youth Orchestra
 from 2013 to 2018 as a violinist, ending up as a first violin in the senior
 orchestra.
 
-![image](../Resources/Recruit/eyo.png)
+![image](../Resources/recruit/eyo.png)
 
 I also was briefly a member of the University of Toronto Philharmonic
 Orchestra, but unfortunately was unable to continue as it did not fit
